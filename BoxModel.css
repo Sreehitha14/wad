@@ -1,0 +1,66 @@
+h1{
+    color:darkred;
+
+    margin-top : 100px;
+    margin-bottom : 100px;
+    margin-left : 100px;
+    margin-right: 100px;
+
+    
+    border-style: solid;
+    border-color: black;
+    border-width : 80px;
+
+    padding-top:50px;
+    padding-bottom: 50px;
+
+    background-color: lightblue;
+
+
+}
+
+h2
+{
+    color : violet;
+    margin-top : 100px;
+    margin-bottom : 100px;
+    margin-left : 100px;
+    margin-right: 100px;
+
+    
+    border-style: dotted;
+    border-color:red;
+    border-width : 10px;
+
+    padding-top:50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    background-color: ghostwhite;
+    
+}
+
+h3
+{
+    color : royalblue;
+    margin-top : 100px;
+    margin-bottom : 100px;
+    margin-left : 100px;
+    margin-right: 100px;
+
+    
+    border-style: double;
+    border-color: midnightblue;
+    border-width : 90px;
+
+    padding-top:50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    background-color: yellow;
+    
+}
+
+

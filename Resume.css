@@ -1,0 +1,19 @@
+a{
+	color: darkblue;
+}
+b{
+	color: darkred;
+}
+img{
+	border: black;
+	border-radius: 25px;
+	background-color: pink;
+	filter: brightness(100%);
+}
+body{
+	font-size: large;
+	font-family: cursive;
+}
+table{
+	font-size: large;
+}
